@@ -1,0 +1,67 @@
+---
+import Icon from './Icon.astro';
+---
+
+<section class="box skills">
+	<div class="stack gap-2 lg:gap-4">
+		<Icon icon="terminal-window" color="var(--accent-regular)" size="2.5rem" gradient />
+		<h2>Expertise Multidisciplinaire</h2>
+		<p>Notre équipe hautement qualifiée est composée d'experts dans divers domaines, y compris l'innovation digitale, le marketing digital, les services financiers, le juridique et l'IT, nous permettant d'offrir une gamme complète de services. </p>
+	</div>
+	<div class="stack gap-2 lg:gap-4">
+		<Icon icon="trophy" color="var(--accent-regular)" size="2.5rem" gradient />
+		<h2>Approche Personnalisée</h2>
+		<p>Chaque client est unique, c'est pourquoi nous adoptons une approche sur mesure pour répondre à leurs besoins spécifiques et atteindre leurs objectifs commerciaux. </p>
+	</div>
+	<div class="stack gap-2 lg:gap-4">
+		<Icon icon="strategy" color="var(--accent-regular)" size="2.5rem" gradient />
+		<h2> Qualité Premium </h2>
+		<p> Nous nous engageons à offrir un service de la plus haute qualité, en fournissant des solutions innovantes et des conseils avisés pour aider nos clients à se démarquer sur le marché.</p>
+	</div>
+	<div class="stack gap-2 lg:gap-4">
+		<Icon icon="trophy" color="var(--accent-regular)" size="2.5rem" gradient />
+		<h2>Intégrité et Professionnalisme </h2>
+		<p>Nous opérons avec les plus hauts standards d'intégrité et de professionnalisme, en veillant à ce que chaque interaction avec nos clients soit empreinte de respect, d'honnêteté et de transparence. </p>
+	</div>
+</section>
+
+<style>
+	.box {
+		border: 1px solid var(--gray-800);
+		border-radius: 0.75rem;
+		padding: 1.5rem;
+		background-color: var(--gray-999_40);
+		box-shadow: var(--shadow-sm);
+	}
+
+	.skills {
+		display: flex;
+		flex-direction: column;
+		gap: 3rem;
+	}
+
+	.skills h2 {
+		font-size: var(--text-lg);
+	}
+
+	.skills p {
+		color: var(--gray-400);
+	}
+
+	@media (min-width: 50em) {
+		.box {
+			border-radius: 1.5rem;
+			padding: 2.5rem;
+		}
+
+		.skills {
+			display: grid;
+			grid-template-columns: repeat(3, 1fr);
+			gap: 5rem;
+		}
+
+		.skills h2 {
+			font-size: var(--text-2xl);
+		}
+	}
+</style>

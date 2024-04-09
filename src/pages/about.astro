@@ -1,0 +1,128 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+import ContactCTA from '../components/ContactCTA.astro';
+import Hero from '../components/Hero.astro';
+---
+
+<BaseLayout title="About | Guillaume Papalia" description="About Guillaume Papalia">
+	<div class="stack gap-20">
+		<main class="wrapper about">
+			<Hero
+				title="A propos"
+				tagline="Découvrez qui nous sommes et ce que nous faisons."
+			>
+				<img
+					width="1553"
+					height="873"
+					src="/assets/1.png"
+					alt="Guillaume Papalia at work"
+				/>
+			</Hero>
+
+			<section>
+				<h2 class="section-title">Notre Vision</h2>
+				<div class="content">
+					<p>
+						Chez Stratevo, nous croyons fermement que chaque entreprise, quelle que soit sa taille, mérite d'accéder à un conseil de qualité 
+						et à des services professionnels de haut niveau. Notre vision est d'être le partenaire privilégié des PME, des startups et des
+						 professionnels indépendants, en leur offrant des solutions innovantes et sur mesure pour répondre à leurs défis les plus pressants.
+					</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Notre Mission</h2>
+				<div class="content">
+					<p>Notre mission est de propulser nos clients vers le succès en leur offrant une 
+					expertise stratégique, des conseils avisés et des solutions pratiques. Nous nous 
+					engageons à fournir un service exceptionnel, en nous appuyant sur une approche
+					 personnalisée, une pensée innovante et une rigueur professionnelle inébranlable.
+				</div>
+			</section>
+
+
+			<section>
+				<h2 class="section-title">Notre Valeur Ajoutée</h2>
+				<div class="content">
+<p> •   Expertise Multidisciplinaire: Notre équipe hautement qualifiée est composée d'experts dans divers domaines, y compris l'innovation digitale, le marketing digital, les services financiers, le juridique et l'IT, nous permettant d'offrir une gamme complète de services. </P> <br>
+<p> •	Approche Personnalisée: Chaque client est unique, c'est pourquoi nous adoptons une approche sur mesure pour répondre à leurs besoins spécifiques et atteindre leurs objectifs commerciaux. </P> <br>
+<p> •	Qualité Premium: Nous nous engageons à offrir un service de la plus haute qualité, en fournissant des solutions innovantes et des conseils avisés pour aider nos clients à se démarquer sur le marché. </P> <br>
+<p> •	Intégrité et Professionnalisme: Nous opérons avec les plus hauts standards d'intégrité et de professionnalisme, en veillant à ce que chaque interaction avec nos clients soit empreinte de respect, d'honnêteté et de transparence. </P>
+
+				</div>
+			</section>
+
+
+			<section>
+			<h2 class="section-title"></h2>
+				<div class="content">
+					<iframe width="750" height="400" src="https://www.youtube.com/embed/E1M_Nw_KaHA" 
+			title="stratevo makes life better2" frameborder="0" allow="accelerometer; autoplay; 
+			clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+			referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+				</div>
+			</section>
+			
+		</main>
+
+		<ContactCTA />
+	</div>
+</BaseLayout>
+
+<style>
+	.about {
+		display: flex;
+		flex-direction: column;
+		gap: 3.5rem;
+	}
+
+	img {
+		margin-top: 1.5rem;
+		border-radius: 1.5rem;
+		box-shadow: var(--shadow-md);
+	}
+
+	section {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		color: var(--gray-200);
+	}
+
+	.section-title {
+		grid-column-start: 1;
+		font-size: var(--text-xl);
+		color: var(--gray-0);
+	}
+
+	.content {
+		grid-column: 2 / 4;
+	}
+
+	.content :global(a) {
+		text-decoration: 1px solid underline transparent;
+		text-underline-offset: 0.25em;
+		transition: text-decoration-color var(--theme-transition);
+	}
+
+	.content :global(a:hover),
+	.content :global(a:focus) {
+		text-decoration-color: currentColor;
+	}
+
+	@media (min-width: 50em) {
+		.about {
+			display: grid;
+			grid-template-columns: 1fr 60% 1fr;
+		}
+
+		.about > :global(:first-child) {
+			grid-column-start: 2;
+		}
+
+		section {
+			display: contents;
+			font-size: var(--text-lg);
+		}
+	}
+</style>
