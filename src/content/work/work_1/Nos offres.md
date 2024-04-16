@@ -14,29 +14,29 @@ tags:
 
 ##### Durée: 1 semaine
 <p><B class="Vilolet">Prix fixe ajustable en fonction des profils</B></p>
-<B class="Bronze"> 1 Secteur d’Expertise </B><intro class="bleu"> de Stratevo Consulting au choix </intro>
+<p><B class="Bronze"> 1 Secteur d’Expertise </B><intro class="bleu"> de Stratevo Consulting au choix </intro></p>
 <br>
 <i><B>Exemple:</B></i>
 
-##### 1.	Marketing Digital:
+##### 1.	Marketing Digital 
 - <p> 	Audit de la présence en ligne (site web, réseaux sociaux, etc.) </p>
 - <p> 	Développement d'une stratégie de contenu pour les médias sociaux </p>
 - <p> 	Création d'une campagne publicitaire de base sur les réseaux sociaux </p>
 
-##### 2.	Service IT :
+##### 2.	Service IT 
 - <p> Audit complet des infrastructures et systèmes informatiques de l'entreprise </p>
 - <p> Développement et mise en œuvre de solutions technologiques sur mesure pour répondre aux besoins spécifiques de l'entreprise </p>
 - <p> Support technique continu et maintenance proactive pour assurer la fiabilité et la sécurité des systèmes </p>
 
-##### 3.	Services en Data Analysis et en Cybersécurité :
+##### 3.	Services en Data Analysis et en Cybersécurité 
 
-<u><ul><h5 class="petit_text">  A.	Data analysis </h5></ul></u>
+<ul><h5 class="petit_text">  A.	<u>Data analysis </h5></ul></u>
 
 - <p>Analyse des données pour identifier des opportunités de croissance </p>
 - <p>Optimisation des stratégies marketing basées sur les résultats obtenus </p>
 - <p>Support à la prise de décision grâce à des analyses approfondies </p>
 
-<u><ul><h5 class="petit_text">  B.	Cybersecurité </h5></ul></u>
+<ul><h5 class="petit_text">  B.	<u>Cybersecurité </h5></ul></u>
 
 - <p>Évaluation des risques et identification des vulnérabilités. </p>
 - <p>Mise en place de solutions de protection et de surveillance. </p>
@@ -67,30 +67,30 @@ tags:
 
 ##### Durée: 2 semaines
 <p><B class="Vilolet">Prix fixe ajustable en fonction des profils</B></p>
-<B class="Silver"> 2 Secteur d’Expertise </B><intro class="bleu"> de Stratevo Consulting au choix </intro>
+<p><B class="Silver"> 2 Secteur d’Expertise </B><intro class="bleu"> de Stratevo Consulting au choix </intro></p>
 <br>
 <i><B>Exemple:</B></i>
 
-##### 1.	Intelligence Artificielle (IA):
+##### 1.	Intelligence Artificielle (IA) 
 
 - <p>  Intégration stratégique de l'intelligence artificielle pour optimiser les processus opérationnels et améliorer les performances de votre entreprise </p>
 - <p> Développement sur mesure de solutions basées sur l'IA pour répondre aux défis spécifiques de votre secteur et de votre entreprise </p>
 - <p> Suivi et évaluation continus pour garantir l'efficacité et la pertinence des solutions d'IA mises en place </p>
 
-##### 2.	Marketing Digital:
+##### 2.	Marketing Digital 
 - <p> 	Audit de la présence en ligne (site web, réseaux sociaux, etc.) </p>
 - <p> 	Développement d'une stratégie de contenu pour les médias sociaux </p>
 - <p> 	Création d'une campagne publicitaire de base sur les réseaux sociaux </p>
 
-##### 3.	Services en Data Analysis:
+##### 3.	Services en Data Analysis 
 
-<u><ul><h5 class="petit_text">  1.	Data analysis </h5></ul></u>
+<ul><h5 class="petit_text">  1. <u>Data analysis </h5></ul></u>
 
 - <p>Analyse approfondie des données pour une meilleure compréhension de la clientèle. </p>
 - <p>Utilisation de données pour ajuster les stratégies marketing en temps réel. </p>
 - <p>Création de rapports détaillés pour évaluer l'efficacité des campagnes. </p>
 
-<u><ul><h5 class="petit_text">  2.	Cybersecurité </h5></ul></u>
+<ul><h5 class="petit_text">  2.	<u>Cybersecurité </h5></ul></u>
 
 - <p>Évaluation des risques et identification des vulnérabilités</p>
 - <p>Mise en place de solutions de protection et de surveillance</p>
@@ -120,37 +120,37 @@ tags:
 
 ##### Durée: 1 mois
 <p><B class="Vilolet">Prix fixe ajustable en fonction des profils</B></p>
-<B class="Gold"> 3 à 4 Secteurs d’Expertise  </B><intro class="bleu"> de Stratevo Consulting au choix </intro>
+<p><B class="Gold"> 3 à 4 Secteurs d’Expertise  </B><intro class="bleu"> de Stratevo Consulting au choix </intro></p>
 <br>
 <i><B>Exemple:</B></i>
 
-##### 1.	Intelligence Artificielle (IA):
+##### 1.	Intelligence Artificielle (IA) 
 
 - <p>  Intégration stratégique de l'intelligence artificielle pour optimiser les processus opérationnels et améliorer les performances de votre entreprise </p>
 - <p> Développement sur mesure de solutions basées sur l'IA pour répondre aux défis spécifiques de votre secteur et de votre entreprise </p>
 - <p> Suivi et évaluation continus pour garantir l'efficacité et la pertinence des solutions d'IA mises en place </p>
 
-##### 2.	Marketing Digital:
+##### 2.	Marketing Digital 
 
 - <p>	Élaboration d'une stratégie marketing digitale complète avec plan d'exécution détaillé </p>
 - <p>	Création de contenu de marque engageant pour différents canaux numériques </p>
 - <p>	Suivi avancé des performances et optimisation continue des campagnes </p>
 
-##### 3.	Services IT:
+##### 3.	Services IT 
 
 - <p>	Audit complet des infrastructures et systèmes informatiques de l'entreprise </p>
 - <p>	Développement et mise en œuvre de solutions technologiques sur mesure pour répondre aux besoins spécifiques de l'entreprise </p>
 - <p>	Support technique continu et maintenance proactive pour assurer la fiabilité et la sécurité des systèmes </p>
 
-##### 3.	Services en Data Analysis :
+##### 3.	Services en Data Analysis 
 
-<u><ul><h5 class="petit_text">  1.	Data analysis </h5></ul></u>
+ <ul><h5 class="petit_text">  1. <u>Data analysis </h5></ul></u>
 
 - <p>Analyse approfondie des données pour une meilleure compréhension de la clientèle. </p>
 - <p>Utilisation de données pour ajuster les stratégies marketing en temps réel. </p>
 - <p>Création de rapports détaillés pour évaluer l'efficacité des campagnes. </p>
 
-<u><ul><h5 class="petit_text">  2.	Cybersecurité </h5></ul></u>
+ <ul><h5 class="petit_text">  2. <u>Cybersecurité </h5></ul></u>
 
 - <p>Évaluation des risques et identification des vulnérabilités</p>
 - <p>Mise en place de solutions de protection et de surveillance</p>
@@ -214,48 +214,48 @@ profiter des conseils et de l'accompagnement de nos consultants expérimentés.<
 
 ##### Durée: Indéterminée
 <p><B class="Vilolet">Prix ajustable en fonction des services selectionnés </B></p>
-<B>Durée:</B><B class="Diamant"> Abonnement Mensuel  </B> <b>à l’ensemble des secteurs d’expertise de StratEvo <b>
+<p><B>Durée:</B><B class="Diamant"> Abonnement Mensuel  </B> <b>à l’ensemble des secteurs d’expertise de StratEvo <b></p>
 <br>
 <i><B>Contenu détaillé:</B></i>
 
-##### 1.	Intelligence Artificielle (IA):
+##### 1.	Intelligence Artificielle (IA)
 
 - <p>  Intégration stratégique de l'intelligence artificielle pour optimiser les processus opérationnels et améliorer les performances de votre entreprise </p>
 - <p> Développement sur mesure de solutions basées sur l'IA pour répondre aux défis spécifiques de votre secteur et de votre entreprise </p>
 - <p> Suivi et évaluation continus pour garantir l'efficacité et la pertinence des solutions d'IA mises en place </p>
 
 
-##### 2.	Marketing Digital:
+##### 2.	Marketing Digital
 - <p>	Stratégie de marketing digital intégrée couvrant tous les aspects du parcours client </p>
 - <p>	Création de campagnes multicanal hautement personnalisées pour maximiser l'engagement et la conversion </p>
 - <p>	Surveillance en temps réel des tendances du marché et ajustement rapide des stratégies en conséquence </p>
 
-##### 3.	Services Financiers:
+##### 3.	Services Financiers
 - <p>	Gestion financière complète, y compris la planification budgétaire, la gestion des risques et l'optimisation fiscale </p>
 - <p>	Analyse approfondie de la santé financière de l'entreprise et recommandations pour l'améliorer </p>
 - <p>	Mise en place de systèmes de gestion financière efficaces pour une meilleure prise de décision </p>
 
-##### 5.	Services IT:
+##### 5.	Services IT
 - <p>	Audit complet des infrastructures et systèmes informatiques de l'entreprise </p>
 - <p>	Développement et mise en œuvre de solutions technologiques sur mesure pour répondre aux besoins spécifiques de l'entreprise </p>
 - <p>	Support technique continu et maintenance proactive pour assurer la fiabilité et la sécurité des systèmes </p>
 
-##### 6.	Services en Data Analysis :
+##### 6.	Services en Data Analysis 
 
-<u><ul><h5 class="petit_text">  1.	Data analysis </h5></ul></u>
+ <ul><h5 class="petit_text">  1. <u>Data analysis </h5></ul></u>
 
 - <p>Analyse approfondie des données pour une meilleure compréhension de la clientèle. </p>
 - <p>Utilisation de données pour ajuster les stratégies marketing en temps réel. </p>
 - <p>Création de rapports détaillés pour évaluer l'efficacité des campagnes. </p>
 
-<u><ul><h5 class="petit_text">  2.	Cybersecurité </h5></ul></u>
+ <ul><h5 class="petit_text">  2. <u>Cybersecurité </h5></ul></u>
 
 - <p>Évaluation des risques et identification des vulnérabilités</p>
 - <p>Mise en place de solutions de protection et de surveillance</p>
 - <p>Formation et sensibilisation des équipes aux bonnes pratiques </p>
 
 
-##### Support:
+##### Support
 - <p> Assistance personnalisée 24/7 par email, téléphone et visioconférence pour répondre aux besoins et aux questions des clients </p>
 <br>
 
