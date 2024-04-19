@@ -15,9 +15,9 @@ tags:
 
 <br>
 
-><B class="Color"> Kenny Hurgon </B>
+><B class="Color"> Jean-François </B>
 
-<p> Bonjour à tous !  Mon nom est Kenny Hurgon, un fervent adepte du monde de la finance. C'est avec un immense plaisir que je vous convie aujourd'hui à découvrir un aperçu de mon parcours professionnel et de mon expérience. Au fil de cette présentation, vous aurez l'opportunité de plonger dans mon cheminement, d'explorer mes compétences ainsi que mes réalisations dans le vaste domaine de la finance et de la comptabilité. Je me réjouis à l'idée de partager avec vous mon travail et d'échanger sur nos expériences respectives. </p>
+<p> Bonjour à tous !  Mon nom est Jean-François, un fervent adepte du monde de la finance. C'est avec un immense plaisir que je vous convie aujourd'hui à découvrir un aperçu de mon parcours professionnel et de mon expérience. Au fil de cette présentation, vous aurez l'opportunité de plonger dans mon cheminement, d'explorer mes compétences ainsi que mes réalisations dans le vaste domaine de la finance et de la comptabilité. Je me réjouis à l'idée de partager avec vous mon travail et d'échanger sur nos expériences respectives. </p>
 
 
 ##### Lors de mon passage en grand cabinet d’audit 
@@ -55,9 +55,9 @@ tags:
 <br>
 
 
-><B class="Color"> Nassim DECHIR </B>
+><B class="Color"> Nassim  </B>
 
-<p>Bonjour à tous, je suis Nassim Dechir, et c'est avec un grand plaisir que je vous propose un avant-goût de mon parcours professionnel et de mes compétences. Au fil de cette présentation, vous pourrez explorer mes diverses inclinations et aptitudes dans le domaine de la finance et de la comptabilité. </p>
+<p>Bonjour à tous, je suis Nassim, et c'est avec un grand plaisir que je vous propose un avant-goût de mon parcours professionnel et de mes compétences. Au fil de cette présentation, vous pourrez explorer mes diverses inclinations et aptitudes dans le domaine de la finance et de la comptabilité. </p>
 
 ##### Lors de mon passage en Analyste en Fusion et Acquisition chez FORINVEST
 - Analyse des dossiers entrants
@@ -81,9 +81,9 @@ tags:
 <br>
 
 
-><B class="Color"> Shweta Tyagi </B>
+><B class="Color"> Shweta  </B>
 
-<p>Salut tout le monde ! Shweta Tyagi à l'appareil, et je suis ravie de vous offrir un petit aperçu de mon parcours professionnel et de mes compétences. Au cours de cette présentation, vous aurez l'occasion de découvrir mes différentes passions et compétences dans le domaine de la finance et de la comptabilité. </p>
+<p>Salut tout le monde ! Shweta  à l'appareil, et je suis ravie de vous offrir un petit aperçu de mon parcours professionnel et de mes compétences. Au cours de cette présentation, vous aurez l'occasion de découvrir mes différentes passions et compétences dans le domaine de la finance et de la comptabilité. </p>
 
 - <a href="/assets/Portfolio - Shweta.pdf">Mon portfolio </a>
 
@@ -92,7 +92,7 @@ tags:
 <br>
 
 
-><B class="Color"> Thomas ZAMI  </B>
+><B class="Color"> Thomas   </B>
 
 #### En termes de missions dans mes cordes :
 
@@ -126,7 +126,7 @@ tags:
 <br>
 
 
-><B class="Color"> Rebecca le Ster </B>
+><B class="Color"> Rebecca  </B>
 
 <p>Bonjour à tous ! Je suis Rebecca, une passionnée de Marketing Digital, et aujourd'hui, je suis ravie de vous présenter un aperçu de mon travail à travers mon portfolio. Dans ce portfolio, vous découvrirez mon parcours, mes compétences et mes réalisations dans le domaine du Marketing Digital. Je suis impatiente de partager mon travail avec vous et d'échanger sur nos expériences.</p>
 
@@ -137,9 +137,9 @@ tags:
 <br>
 
 
-><B class="Color"> Marisol valerín coronas </B>
+><B class="Color"> Marisol </B>
 
-<p>Salut à toutes et à tous ! Je me nomme Marisol Valerín Coronas et je suis une passionnée de Marketing Digital. C'est avec une immense joie que je vous invite aujourd'hui à découvrir un aperçu de mon travail à travers mon portfolio. À travers ce portfolio, vous aurez l'opportunité d'explorer mon parcours, mes compétences ainsi que mes réalisations dans le domaine du Marketing Digital. Je suis impatiente de partager mon travail avec vous et de pouvoir échanger sur nos expériences respectives.</p>
+<p>Salut à toutes et à tous ! Je me nomme Marisol et je suis une passionnée de Marketing Digital. C'est avec une immense joie que je vous invite aujourd'hui à découvrir un aperçu de mon travail à travers mon portfolio. À travers ce portfolio, vous aurez l'opportunité d'explorer mon parcours, mes compétences ainsi que mes réalisations dans le domaine du Marketing Digital. Je suis impatiente de partager mon travail avec vous et de pouvoir échanger sur nos expériences respectives.</p>
 
 - <a href="https://mvalerininfo.wixsite.com/marisolvalerinc">Mon portfolio </a>
 
@@ -148,9 +148,9 @@ tags:
 <br>
 
 
-><B class="Color"> Razarutheen MUSTAFA </B>
+><B class="Color"> Razarutheen  </B>
 
-<p>Bonjour à toutes et à tous ! Je suis Razarutheen MUSTAFA, et ma passion est le Marketing Digital. Je suis vraiment enchantée de vous convier aujourd'hui à explorer un échantillon de mon travail à travers mon portfolio. Ce dernier vous permettra de découvrir mon parcours, mes compétences et mes réalisations dans le domaine du Marketing Digital. J'attends avec impatience de partager mon travail avec vous et de pouvoir échanger sur nos expériences respectives.</p>
+<p>Bonjour à toutes et à tous ! Je suis Razarutheen, et ma passion est le Marketing Digital. Je suis vraiment enchantée de vous convier aujourd'hui à explorer un échantillon de mon travail à travers mon portfolio. Ce dernier vous permettra de découvrir mon parcours, mes compétences et mes réalisations dans le domaine du Marketing Digital. J'attends avec impatience de partager mon travail avec vous et de pouvoir échanger sur nos expériences respectives.</p>
 
 - <a href="/assets/Razarutheen Mustafa Portfolio.pdf">Mon portfolio </a>
 
@@ -167,27 +167,24 @@ tags:
 
 <br>
 
-<!-- 
 
->Alexis Thomas
+><B class="Color"> Alexis  </B>
 
-<p>Salut à toutes et à tous ! Je me prénomme Alexis Thomas, un fervent amateur d'informatique. C'est avec une grande excitation que je vous convie aujourd'hui à découvrir un aperçu de mon travail à travers mon portfolio. À travers cet ensemble de réalisations, vous plongerez dans mon parcours, mes compétences ainsi que mes réussites dans le vaste domaine de l'informatique et de la programmation. Je suis véritablement enthousiaste à l'idée de partager mon travail avec vous et d'entamer des échanges enrichissants sur nos expériences respectives. </p>
-<p> Let's dive in together! 💼" </p>
+<p>Salut à toutes et à tous ! Je me prénomme Alexis, un fervent amateur d'informatique. C'est avec une grande excitation que je vous convie aujourd'hui à découvrir un aperçu de mon travail à travers mon portfolio. À travers cet ensemble de réalisations, vous plongerez dans mon parcours, mes compétences ainsi que mes réussites dans le vaste domaine de l'informatique et de la programmation. Je suis véritablement enthousiaste à l'idée de partager mon travail avec vous et d'entamer des échanges enrichissants sur nos expériences respectives. </p>
+<p> Let's dive in together! 💼 </p>
 
 - <a href="/assets/Présentation Stratevo-2.pdf">Mon portfolio </a>
 
 Pour en savoir plus cliqué ici : <a href="https://web-coast.info/realisations/"> En savoir plus </a>
 
 
-
 <br>
 <br>
 <br>
--->
 
-><B class="Color"> Nicolas Prévost </B>
+><B class="Color"> Nicolas  </B>
 
-<p>Bonjour à tous ! Je m'appelle Nicolas Prévost et je suis passionné par le monde de l'informatique. Je suis très heureux de vous inviter aujourd'hui à découvrir un aperçu de mon travail à travers mon portfolio. En explorant cet ensemble de réalisations, vous aurez un aperçu de mon parcours, de mes compétences et de mes succès dans le vaste domaine de l'informatique et de la programmation. Je suis vraiment enthousiaste à l'idée de partager mon travail avec vous et de pouvoir échanger sur nos expériences respectives.</p>
+<p>Bonjour à tous ! Je m'appelle Nicolas  et je suis passionné par le monde de l'informatique. Je suis très heureux de vous inviter aujourd'hui à découvrir un aperçu de mon travail à travers mon portfolio. En explorant cet ensemble de réalisations, vous aurez un aperçu de mon parcours, de mes compétences et de mes succès dans le vaste domaine de l'informatique et de la programmation. Je suis vraiment enthousiaste à l'idée de partager mon travail avec vous et de pouvoir échanger sur nos expériences respectives.</p>
 
 
 ##### Consultant en solutions technologiques et stratégiques chez Xsolla (Mars 2023 - Mars 2024)   
