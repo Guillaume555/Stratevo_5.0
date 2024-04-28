@@ -15,7 +15,7 @@ tags:
 
 <br>
 
-><B class="Color"> Jean-François </B>
+><B class="Color"> Jean </B>
 
 <p> Bonjour à tous !  Mon nom est Jean-François, un fervent adepte du monde de la finance. C'est avec un immense plaisir que je vous convie aujourd'hui à découvrir un aperçu de mon parcours professionnel et de mon expérience. Au fil de cette présentation, vous aurez l'opportunité de plonger dans mon cheminement, d'explorer mes compétences ainsi que mes réalisations dans le vaste domaine de la finance et de la comptabilité. Je me réjouis à l'idée de partager avec vous mon travail et d'échanger sur nos expériences respectives. </p>
 
